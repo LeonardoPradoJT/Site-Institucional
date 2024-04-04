@@ -1,0 +1,5 @@
+vpc_id           = ""
+vpc_cidr_block   = ""
+subnet_private_1 = "subnet-"
+subnet_private_2 = "subnet-"
+ami = "ami-080e1f13689e07408"
